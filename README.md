@@ -1,0 +1,2 @@
+# hotel_city_capacity_reason_weather_domestic_coastal_v1
+国内滨海城市天气对产能影响
